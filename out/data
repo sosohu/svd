@@ -1,0 +1,7 @@
+gesvd time use:            24323259 us
+odd_even_gesvd time use:            15192936 us
+myorder_gesvd time use:             8810263 us
+myorder_gesvd_tran time use:             8605550 us
+myorder_gesvd_op_tran time use:             7885652 us
+myorder_gesvd_op_tran_ele time use:             6981914 us
+myorder_gesvd_all_a time use:             3000563 us
